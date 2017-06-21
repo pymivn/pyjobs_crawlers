@@ -47,3 +47,6 @@ make test
 
 # TODO
 - Thêm status của các crawler vào web
+
+# Phụ lục
+- Sử dụng [Splash](http://splash.readthedocs.io/en/stable/install.html) và [scrapy-splash](https://github.com/scrapy-plugins/scrapy-splash) để crawl các trang web render nội dung bằng Javascript
